@@ -1,1 +1,3 @@
-# Projekt-08-kadernictvi
+# Projekt-08-
+
+Nakódujte stránku dle vzoru
