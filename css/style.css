@@ -13,3 +13,49 @@ světle šedá: #f0f0f0
 */
 
 /* --- pod tuto čáru piš svoje CSS --- */
+
+body {
+    font-family: 'Lora';
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Lora';
+    font-weight: 400;
+    font-style: italic;
+}
+
+h1 {
+    color: #c5308a;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    color: #c5308a;
+}
+
+.bg-pink {
+    background-color: #c5308a;
+    color: white;
+}
+
+.bg-grey {
+    background-color: #f0f0f0;
+}
+
+a {
+    color: #c5308a;
+    text-decoration: none;
+}
+
+.fs-7 {
+    font-size: smaller;
+}
+
+
